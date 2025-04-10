@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey!+I'm+%F0%9F%91%8B+Arya Deshmukh;ML+%7C+AI+%7C+React+Dev;Always+learning+new+things+%F0%9F%93%9A" alt="Hi , Arya here" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey!+I'm+%F0%9F%91%8B+Arya+Deshmukh;ML+%7C+AI+%7C+React+Dev;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 A curious Tech explorer from India</h3>
+<h3 align="center">🚀 A curious Tech explorer from India </h3>
 
 ---
 
 ### 🔍 About Me
 
-- 🔭 Currently studying: **Big Data Analysis**
+- 🔭 Currently Studying: **Big Data Analysis**
 - 🌱 Leveling up in: **Advanced React & Data Analysis**
 - 🤝 Open to collaborations in: **AI, ML & Open Source Projects**
 - 📫 Reach me at: **ardeshmukh1945@gmail.com**
